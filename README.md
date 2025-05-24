@@ -102,5 +102,5 @@ Você pode conectar ao PostgreSQL usando ferramentas como **DBeaver**:
 
 ## ✍️ Autor
 
-Desenvolvido por Marcelo Corni Alves
+Desenvolvido por Marcelo Corni Alves.
 Se curtiu, ⭐️ dê uma estrela no repositório!
