@@ -44,7 +44,7 @@ controle_tarefas/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/marcelo.corni/controle-tarefas-mvc-streamlit.git
+git clone https://github.com/marcelocorni/controle-tarefas-mvc-streamlit.git
 cd controle-tarefas-mvc-streamlit
 ```
 
